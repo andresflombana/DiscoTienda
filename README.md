@@ -2,4 +2,4 @@ Se requiere un servicio en la aplicación de la discotienda que permita generar 
 a.	En la clase Discotienda programe el método que resuelve el requerimiento planteado anteriormente, no olvide lanzar las excepciones que se puedan generar.
 b.	En el metodo2() de la clase Discotienda pruebe el anterior método e informe al usuario que el informe se creó correctamente.
 
-##SOLUCIÓN EN EL ARCHIVO .TXT
+## SOLUCIÓN EN EL ARCHIVO .TXT
